@@ -20,9 +20,9 @@ const Home: NextPage = () => {
           <div className={styles.container}>
             <img className={styles.xiancu} src="/images/xiancu.jpg" />
             <div className={styles.sky}>
-              <h1 className={styles.headerText}>Moonlight Sonata</h1>
+              <h1 className={styles.headerText}>Moonlight Sonata...</h1>
               <h2 className={styles.text}>
-                ... and <b> Teh stars align </b>
+                ... follow the sonata of <b> Xian Tanak</b> 
               </h2>
               <div className={styles.stars}></div>
               <div className={styles.stars1}></div>
